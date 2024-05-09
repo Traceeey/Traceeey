@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Traceeey
-- 👀 I’m interested in Database administration and system analysis
+- 👋 Hi, I’m @Tracey
+- 👀 I’m interested in Data science and software engineering
 - 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on multimedia programming
 - 📫 How to reach me email; traceeeycodes@gmail.com
